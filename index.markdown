@@ -841,6 +841,7 @@ layout: none
             [new Date(2024,9,26), 0, 0, 0, 600, 30, 0, 0],
             [new Date(2024,9,27), 0, 0, 0, 600, 30, 3, 0],
             [new Date(2024,9,28), 0, 0, 0, 600, 30, 1, 0],
+            [new Date(2024,9,29), 0, 0, 0, 600, 30, 1, 0],
         ]);
         
         var options = {
@@ -893,7 +894,8 @@ layout: none
                   color: 'red',
                   lineWidth: 4,
                   visibleInLegend: true,
-                  labelInLegend: 'Average Absence Seizures'
+                  labelInLegend: 'Average Absence Seizures',
+                  tooltip: false
               },
               //6: {type: 'polynomial', opacity: .5, lineWidth: 4, color: 'red' }
           },
