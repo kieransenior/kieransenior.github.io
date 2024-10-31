@@ -22,7 +22,7 @@ layout: none
                 {label: 'Zonisamide', id: 'zonisamide', type: 'number'},
                 {label: 'Lacosamide', id: 'lacosamide', type: 'number'},
                 {label: 'Clobazam', id: 'clobazam', type: 'number'},
-                {label: 'Absence', id: 'absence', type: 'number'},
+                {label: 'Focal', id: 'focal', type: 'number'},
                 {label: 'Tonic Clonic', id: 'tonic-clonic', type: 'number'},
             ],
             
@@ -894,7 +894,7 @@ layout: none
                   color: 'red',
                   lineWidth: 4,
                   visibleInLegend: true,
-                  labelInLegend: 'Average Absence Seizures',
+                  labelInLegend: 'Average Focal Seizures',
                   tooltip: false
               },
               //6: {type: 'polynomial', opacity: .5, lineWidth: 4, color: 'red' }
