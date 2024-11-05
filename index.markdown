@@ -5,9 +5,6 @@ layout: none
 <html>
   <head>
     <meta charset="utf-8">
-    
-    
-    
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
       google.charts.load('current', {'packages':['corechart']});
@@ -848,6 +845,8 @@ layout: none
             // November 2024
             [new Date(2024,10,1), 0, 0, 0, 600, 30, 0, 0],
             [new Date(2024,10,2), 0, 0, 0, 600, 30, 1, 0],
+            [new Date(2024,10,3), 0, 0, 0, 600, 30, 0, 0],
+            [new Date(2024,10,4), 0, 0, 0, 600, 30, 0, 0],
         ]);
         
         var options = {
@@ -929,9 +928,7 @@ layout: none
       }
     </script>
   </head>
-  
   <body>
-    
     <div id="chart_div" style="width: 100%; height: 100%;"></div>
   </body>
 </html>
