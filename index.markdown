@@ -15,9 +15,7 @@ On November 27th 2024 I had a left selective [amygdalohippocampectomy](https://e
 
 This is a common topic. Deep study by Kaiser Permanente on multiple fronts showed my short-term memory is being controlled by my right hippocampus. The left hippocampus was non-functional per the Wada test, with the right hippocampus scoring 100% on memory tests. The sEEG showed the left hippocampus was misfiring non-stop both whilst conscious and even more so during sleep.
 
-The results from these tests indicated there would be no impact on short-term memory post-surgery, and studies also show there can be an _increase_ in verbal memory after surgery. The tests revealed techniques being utilized to remember details and a general high IQ. Short-term memory was also found to be low-scoring per expectations.
-
-In short, I have been using compensatory techniques for the last eighteen years to manage short-term memory. The success of this could be reflected in my career where today I operate as a Senior Engineer at Apple's global headquarters, Apple Park.
+The results from these tests indicated there would be no impact on short-term memory post-surgery, and studies also show there can be an _increase_ in verbal memory after surgery. The tests revealed techniques being utilized to remember details and a general high IQ. Short-term memory was found to be low-scoring per expectations.
 
 ### **Core Medical Team**
 
@@ -32,8 +30,8 @@ List ordered by dates met. This list does not include the very large team of doc
 
 ### **Seizure Medication vs. Seizures**
 
-For over two years I meticuously captured seizure and medication data, using the results to guide my future care. The data showed successes of medications in addition to the necessity of surgery given it was shown to be refractory epilepsy.
+For over two years I meticuously captured seizure and medication data, using the results to guide my future care. The data showed the temporary success of just one medication in addition to the necessity of surgery given it was shown to be refractory epilepsy.
 
 The graph below correlates three data points; time (x-axis), medication dosage (y-axis), and seizure count (also y-axis). The x-axis reprents every single day for more than two years with each entry capturing the types and dosages of medications as well as the number of seizures on that given day. Combining these three data sets directly reflects the efficacy of each medication over time, with Clobazam (a powerful benzodiazepine) being the most effective.
         
- The epilepsy type is refractory LTLE (Left [Temporal Lobe Epilepsy](https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy)) with the graph showing the 'honeymoon period' of the Clobazam as seizures begun to increase after some time. The primary seizure type is absence seizures with high-impacting aphasia (inability to communicate entirely). Four entries represent tonic clonic seizures, and two out of these hundreds of entries were cluster seizures (unmarked).
+ The epilepsy type is refractory LTLE (Left [Temporal Lobe Epilepsy](https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy)) with the graph showing the anticipated 'honeymoon period' of the [Clobazam](https://en.wikipedia.org/wiki/Clobazam) as seizures begun to increase after some time. The primary seizure type is absence seizures with high-impacting aphasia (inability to communicate entirely). Four entries represent tonic clonic seizures, and two out of these hundreds of entries were cluster seizures (unmarked) lasting fifteen minutes.
