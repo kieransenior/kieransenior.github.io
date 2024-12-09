@@ -2,9 +2,9 @@
 layout: data
 ---
 
-This website is used to help both inform current epileptic patients and provide data and insights for professionals in medicine. Do feel free to contact me via email for further information.
+For over two years I meticulously captured my epilepsy data whose results were leveraged for the eventual removal of my hippocampus. This data capture is used to discover how it correlates with medication, pre-operative state, and post-operative state. [Here's a link](/data) to all of the data.
 
-For over two years I meticulously captured my epilepsy data to discover how it correlates with medication and post-operative state. [Here's a link](/data) to all of the data.
+This website is used to help both inform current epileptic patients and provide data and insights for professionals in medicine. Do feel free to contact me via email for further information.
 
 On November 27th 2024 I had a left selective [amygdalohippocampectomy](https://en.wikipedia.org/wiki/Amygdalohippocampectomy) interstitial thermal laser ablation ([LiTT](https://www.epilepsy.com/treatment/surgery/types/litt-thermal-ablation)) surgery to remove the entirety of my left hippocampus through an innovative procedure performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at [Stanford Medicine](https://med.stanford.edu) in Palo Alto.
 
