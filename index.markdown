@@ -2,7 +2,9 @@
 layout: data
 ---
 
-For over two years I have meticulously captured my epilepsy data to find how it correlates to medication and post-operative state. [Here's a link](/data) to all of the data.
+This website is used to help both inform current epileptic patients and provide data and insights for professionals in medicine. Do feel free to contact me via email for further information.
+
+For over two years I meticulously captured my epilepsy data to discover how it correlates with medication and post-operative state. [Here's a link](/data) to all of the data.
 
 On November 27th 2024 I had a left selective [amygdalohippocampectomy](https://en.wikipedia.org/wiki/Amygdalohippocampectomy) interstitial thermal laser ablation ([LiTT](https://www.epilepsy.com/treatment/surgery/types/litt-thermal-ablation)) surgery to remove the entirety of my left hippocampus through an innovative procedure performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at [Stanford Medicine](https://med.stanford.edu) in Palo Alto.
 
@@ -29,8 +31,6 @@ List ordered by dates met. This list does not include the very large team of doc
 | [Dr. Vivek Buch](https://profiles.stanford.edu/vivek-buch) - Assistant Professor of Neurosurgeory, Stanford |
 
 ### **Seizure Medication vs. Seizures**
-
-For over two years I meticuously captured seizure and medication data, using the results to guide my future care. The data showed the temporary success of just one medication in addition to the necessity of surgery given it was shown to be refractory epilepsy.
 
 The graph below correlates three data points; time (x-axis), medication dosage (y-axis), and seizure count (also y-axis). The x-axis reprents every single day for more than two years with each entry capturing the types and dosages of medications as well as the number of seizures on that given day. Combining these three data sets directly reflects the efficacy of each medication over time, with Clobazam (a powerful benzodiazepine) being the most effective.
         
