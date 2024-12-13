@@ -23,12 +23,12 @@ The results from these tests indicated there would be no impact on short-term me
 
 List ordered by dates met. This list does not include the very large team of doctors, nurses, and assistants whom all contributed to the successful outcome of both treatment and surgery.
 
-| Doctor |
-| -------- |
-| [Dr. Sharam Amina](https://mydoctor.kaiserpermanente.org/ncal/providers/shahramamina) - Epileptologist, Kaiser Permanente |
-| [Dr. Derek Yecies](https://mydoctor.kaiserpermanente.org/ncal/providers/derekyecies) - Neurosurgeon, Kaiser Permanente |
-| [Dr. Paul McGeoch](https://profiles.stanford.edu/paul-mcgeoch) - Clinical Instructor, Neurosurgery, Stanford |
-| [Dr. Vivek Buch](https://profiles.stanford.edu/vivek-buch) - Assistant Professor of Neurosurgeory, Stanford |
+| Doctor | |
+| -------- | -------- |
+| [Dr. Sharam Amina](https://mydoctor.kaiserpermanente.org/ncal/providers/shahramamina) | Epileptologist, Kaiser Permanente |
+| [Dr. Derek Yecies](https://mydoctor.kaiserpermanente.org/ncal/providers/derekyecies) | Neurosurgeon, Kaiser Permanente |
+| [Dr. Paul McGeoch](https://profiles.stanford.edu/paul-mcgeoch) | Clinical Instructor, Neurosurgery, Stanford |
+| [Dr. Vivek Buch](https://profiles.stanford.edu/vivek-buch) | Assistant Professor of Neurosurgeory, Stanford |
 
 ### **Seizure Medication vs. Seizures**
 
