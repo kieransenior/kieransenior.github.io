@@ -11,6 +11,10 @@ layout: default
 |:--:| 
 | _July 2nd, 2024, Redwood City, California. An invasive brain surgery performed to monitor brain waves (sEEG). The monitor showed continual abnormal brain activity twenty-four hours a day. Nurses assumed I was seizing frequently._ |
 
+| ![](assets/seeg_selfie.jpeg) |
+|:--:|
+| _July 3rd, 2024, Redwood City, California. An sEEG typically lasts five days whereas the data from my case was extremely clear in the first few hours. I left the hospital the day after arriving. This selfie was taken as they were removing the probes inserted deep into my brain. Shaven head was upon my own request instead of numerous bald patches._ |
+
 | ![](assets/litt_mri.png) | 
 |:--:| 
 | _November 27th, 2024, Palo Alto, California. Neurosurgeons take MRI imaging showing progress of the nine-hour long LiTT surgery. This appears to show the majority of the hippocampus ablated (vaporized)._ |
