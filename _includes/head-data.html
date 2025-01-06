@@ -911,9 +911,16 @@
               [new Date(2024,11,29), null, null, null, 600, 30, null, null, null],
               [new Date(2024,11,30), null, null, null, 600, 30, null, null, null],
               [new Date(2024,11,31), null, null, null, 600, 30, null, null, null],
+              
+              // January 2025
+              [new Date(2025,0,1), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,2), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,3), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,4), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,5), null, null, null, 600, 30, null, null, null],
           ]);
           
-          var formatDate = new google.visualization.DateFormat({ pattern: 'YY/MM' });
+          var formatDate = new google.visualization.DateFormat({ pattern: 'YYYY/MM' });
           formatDate.format(data, 0)
           
           var dataGroup = google.visualization.data.group(
@@ -987,8 +994,10 @@
           );
           
           var options = {
+            // orientation: 'vertical', // for cell phones
             interpolateNulls: true,
             isStacked: true,
+            lineWidth: 3,
             series: {
                 0: { axis: 'dosage', targetAxisIndex: 0 },
                 1: { axis: 'dosage', targetAxisIndex: 0 },
