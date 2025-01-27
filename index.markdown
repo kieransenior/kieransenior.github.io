@@ -2,12 +2,11 @@
 layout: data
 ---
 
-For over two years I meticulously captured my epilepsy data whose results were leveraged for the eventual removal of my hippocampus. This data capture is used to discover how it correlates with medication, pre-operative state, and post-operative state. [Here's a link](/data) to all of the data.
+For over two years I meticulously captured my epilepsy data whose results were leveraged for the eventual removal of my left hippocampus. This data capture is used to discover how it correlates with medication, pre-operative state, and post-operative state. [Here's a link](/data) to all of the data.
+
+On November 27th 2024 I had a __left__ selective [amygdalohippocampectomy](https://en.wikipedia.org/wiki/Amygdalohippocampectomy) surgery via via Laser Interstitial Thermal Therapy ([LiTT](https://www.epilepsy.com/treatment/surgery/types/litt-thermal-ablation)) to remove the entirety of my left hippocampus through an innovative procedure performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at [Stanford Medicine](https://med.stanford.edu) in Palo Alto. I was the fifth person to ever have the entire hippocampus removed.
 
 This website is used to help both inform current epileptic patients and provide data and insights for professionals in medicine. Do feel free to contact me [via email](mailto:kieransenior@icloud.com) for further information.
-
-On November 27th 2024 I had a __left__ selective [amygdalohippocampectomy](https://en.wikipedia.org/wiki/Amygdalohippocampectomy) interstitial thermal laser ablation ([LiTT](https://www.epilepsy.com/treatment/surgery/types/litt-thermal-ablation)) surgery to remove the entirety of my left hippocampus through an innovative procedure performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at [Stanford Medicine](https://med.stanford.edu) in Palo Alto.
-
 
 | **Causation** |
 | [Meningococcal](meningococcal) [meningitis](https://www.who.int/news-room/fact-sheets/detail/meningitis) and [encephalitis](https://en.wikipedia.org/wiki/Encephalitis) when I was twenty years old is either the cause itself or the catalyst for pre-existing epilepsy. We will never know due to the lack of MRI scans prior to the meningitis. | 

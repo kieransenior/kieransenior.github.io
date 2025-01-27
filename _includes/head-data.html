@@ -920,13 +920,31 @@
               [new Date(2025,0,5), null, null, null, 600, 30, null, null, null],
               [new Date(2025,0,6), null, null, null, 600, 30, null, null, null],
               [new Date(2025,0,7), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,8), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,9), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,10), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,11), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,12), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,13), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,14), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,15), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,16), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,17), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,18), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,19), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,20), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,21), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,22), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,23), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,24), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,25), null, null, null, 600, 30, null, null, null],
           ]);
           
-          var formatDate = new google.visualization.DateFormat({ pattern: 'YYYY/MM' });
-          formatDate.format(data, 0)
+          var formatDate = new google.visualization.DateFormat({ pattern: 'YY/MM' });
+          formatDate.format(data, 0);
           
           var dataGroup = google.visualization.data.group(
-            data,
+                data,
                 [{
                     column: 0,
                     label: 'Month',
@@ -1006,15 +1024,14 @@
                 2: { axis: 'dosage', targetAxisIndex: 0 },
                 3: { axis: 'dosage', targetAxisIndex: 0 },
                 4: { axis: 'dosage', targetAxisIndex: 0 },
-                5: { type: 'line', targetAxisIndex: 6 }, // focal
-                6: { type: 'line', targetAxisIndex: 6 }, // tonic clonics
-                7: { type: 'steppedArea', axis: 'surgery', lineDashStyle: [2,2], lineWidth: 3, color: 'red', targetAxisIndex: 7, visibleInLegend: false }, // surgery
+                5: { type: 'line', targetAxisIndex: 5 }, // focal
+                6: { type: 'line', targetAxisIndex: 5 }, // tonic clonics
+                7: { type: 'steppedArea', axis: 'surgery', lineDashStyle: [2,2], color: 'red', targetAxisIndex: 7, visibleInLegend: false }, // surgery
             },
             vAxes: {
                 0: {
                     side: 'left',
                     title: 'Dosage (Milligrams)',
-                    maxValue: 650,
                     textStyle: {
                         fontSize: 12
                     }
