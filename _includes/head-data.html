@@ -17,7 +17,7 @@
         function drawVisualization() {
           var data = google.visualization.arrayToDataTable([
               [
-                  { label: 'Date',id: 'date', type: 'date' },
+                  { label: 'Date', id: 'date', type: 'date' },
                   { label: 'Keppra', id: 'keppra', type: 'number' },
                   { label: 'Depakote', id: 'depakote', type: 'number' },
                   { label: 'Zonisamide', id: 'zonisamide', type: 'number' },
@@ -938,10 +938,21 @@
               [new Date(2025,0,23), null, null, null, 600, 30, null, null, null],
               [new Date(2025,0,24), null, null, null, 600, 30, null, null, null],
               [new Date(2025,0,25), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,26), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,27), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,28), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,29), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,30), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,0,31), null, null, null, 600, 30, null, null, null],
+              
+              // Feburary 2025
+              [new Date(2025,1,1), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,1,2), null, null, null, 600, 30, null, null, null],
+              [new Date(2025,1,3), null, null, null, 600, 30, null, null, null],
           ]);
           
-          var formatDate = new google.visualization.DateFormat({ pattern: 'YY/MM' });
-          formatDate.format(data, 0);
+          var yearFormat = new google.visualization.DateFormat({ pattern: 'YYYY' });
+          var monthFormat = new google.visualization.DateFormat({ pattern: 'MM' });
           
           var dataGroup = google.visualization.data.group(
                 data,
@@ -949,9 +960,9 @@
                     column: 0,
                     label: 'Month',
                     modifier: function (val) {
-                        return formatDate.formatValue(val);
+                        return new Date(yearFormat.formatValue(val), monthFormat.formatValue(val) - 1, 1);
                     },
-                    type: 'string'
+                    type: 'date'
                 }],
           
                 [
@@ -1009,24 +1020,22 @@
                       column: 8,
                       label: "Surgery",
                       type: 'number'
-                  }
+                  },
                 ],
           );
+          
+          
           
           var options = {
             // orientation: 'vertical', // for cell phones
             interpolateNulls: true,
             isStacked: true,
             lineWidth: 3,
+            pointShape: 'circle',
             series: {
-                0: { axis: 'dosage', targetAxisIndex: 0 },
-                1: { axis: 'dosage', targetAxisIndex: 0 },
-                2: { axis: 'dosage', targetAxisIndex: 0 },
-                3: { axis: 'dosage', targetAxisIndex: 0 },
-                4: { axis: 'dosage', targetAxisIndex: 0 },
-                5: { type: 'line', targetAxisIndex: 5 }, // focal
-                6: { type: 'line', targetAxisIndex: 5 }, // tonic clonics
-                7: { type: 'steppedArea', axis: 'surgery', lineDashStyle: [2,2], color: 'red', targetAxisIndex: 7, visibleInLegend: false }, // surgery
+                5: { type: 'line', targetAxisIndex: 5, pointsVisible: true, pointSize: 5 }, // focal
+                6: { type: 'line', targetAxisIndex: 5, pointsVisible: true, pointSize: 5 }, // tonic clonics
+                7: { type: 'candlestick', targetAxisIndex: 7, axis: 'surgery', color: 'orange', areaOpacity: 0.5, lineDashStyle: [2,2], visibleInLegend: false }, // surgery
             },
             vAxes: {
                 0: {
@@ -1036,7 +1045,7 @@
                         fontSize: 12
                     }
                 },
-                6: {
+                7: {
                     side: 'right',
                     title: 'Seizure Count',
                     scaleType: 'mirrorLog',
@@ -1044,14 +1053,23 @@
                         fontSize: 12
                     }
                 },
+                // Hides the text… unsure how else to do this.
+                8: { title: "" },
+                6: { title: "" },
                 7: { textStyle: { fontSize: 1 } }
             },
             hAxis: {
-                title: 'Date (YY/MM format)',
+                title: 'Date',
                 format: 'MMM YY',
                 textStyle: {
-                    fontSize: 11
-                }
+                    fontSize: 10
+                },
+                /* Google Charts is broken. The above data creates a random entry far into the future. */
+                viewWindow: {
+                    min: new Date(2022, 8, 15),
+                    max: new Date(2025, 1, 15)
+                },
+                
             },
             seriesType: 'bars',
             chartArea: {

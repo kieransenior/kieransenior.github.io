@@ -4,7 +4,7 @@ layout: data
 
 For over two years I meticulously captured my epilepsy data whose results were leveraged for the eventual removal of my left hippocampus. This data capture is used to discover how it correlates with medication, pre-operative state, and post-operative state. [Here's a link](/data) to all of the data.
 
-On November 27th 2024 I had a __left__ selective [amygdalohippocampectomy](https://en.wikipedia.org/wiki/Amygdalohippocampectomy) surgery via via Laser Interstitial Thermal Therapy ([LiTT](https://www.epilepsy.com/treatment/surgery/types/litt-thermal-ablation)) to remove the entirety of my left hippocampus through an innovative procedure performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at [Stanford Medicine](https://med.stanford.edu) in Palo Alto. I was the fifth person to ever have the entire hippocampus removed.
+On November 27th 2024 I had a _left_ selective [amygdalohippocampectomy](https://en.wikipedia.org/wiki/Amygdalohippocampectomy) surgery via Laser Interstitial Thermal Therapy ([LiTT](https://www.epilepsy.com/treatment/surgery/types/litt-thermal-ablation)) to remove the entirety of my left hippocampus through an innovative procedure performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at [Stanford Medicine](https://med.stanford.edu) in Palo Alto. I was the fifth person to ever have the entire hippocampus removed.
 
 This website is used to help both inform current epileptic patients and provide data and insights for professionals in medicine. Do feel free to contact me [via email](mailto:kieransenior@icloud.com) for further information.
 
@@ -24,11 +24,11 @@ This website is used to help both inform current epileptic patients and provide 
 | **Has your short-term memory been affected?** |
 | Deep study by Kaiser Permanente on multiple fronts showed my short-term memory is being controlled by my right hippocampus. The left hippocampus was non-functional per the Wada test, with the right hippocampus scoring 100% on memory tests. The sEEG showed the left hippocampus was misfiring non-stop both whilst conscious and even more so during sleep.<br /><br />The results from these tests indicated there would be no impact on short-term memory post-surgery, and studies also show there can be an _increase_ in verbal memory after surgery. The tests revealed techniques being utilized to remember details and a general high IQ. Short-term memory was found to be low-scoring per expectations. |
 | **What post-surgery side effects were there?** |
-| Interestingly there were some side effects which are currently continuing (12/20/24). **Naming things and people**. I know precisely who/what they are, I just cannot name them. Once I've named them once, or once I've struggled to name them and had a sleep on it, I then recall what they are without issue. |
+| Interestingly there were some side effects which are continuing. *Naming things and people*. I know precisely who/what they are, I just cannot name them. Once I've named them once, or once I've struggled to name them and had a sleep on it, I then recall what they are without issue. |
 | **How long did it take to recover?** |
 | I felt totally back to normal after almost two weeks and went back to work after just one and-a-half weeks. Interestingly, the worst side effect was being on life support for ten hours which causes a sore throat and ulcers on the tongue. |
 | **Where are the incisions/scars?** |
-| Compared to the sEEG, the LiTT surgery to destroy your brain matter requires a tiny hole to insert the device without the need to cut any hair. The noticeable marks on your head are where the frame needs to keep your head completely still requiring tremendous force. Modern science is truly incredible. |
+| Compared to the sEEG, the LiTT surgery to destroy your brain matter requires a tiny hole to insert the device without the need to cut any hair. The noticeable marks on your head are where the frame needs to keep your head completely still requiring tremendous force. |
 
 ### **Core Medical Team**
 
@@ -43,6 +43,6 @@ List ordered by dates met. This list does not include the very large team of doc
 
 ### **Seizure Medication vs. Seizures**
 
-The graph below correlates three data points; time (x-axis), medication dosage (y-axis), and seizure count (also y-axis). The x-axis reprents every single day for more than two years with each entry capturing the types and dosages of medications as well as the number of seizures on that given day. Combining these three data sets directly reflects the efficacy of each medication over time, with Clobazam (a powerful benzodiazepine) being the most effective.
+The graph below correlates three data points; time in months (x-axis), medication dosage (y-axis), and seizure count via the line (also y-axis). The x-axis reprents each month for more than two years with each entry capturing the types and dosages of medications as well as the number of seizures in that month. Combining these three data sets directly reflects the efficacy of each medication over time, with Clobazam (a powerful benzodiazepine) being the most effective.
         
  The epilepsy type is refractory LTLE (Left [Temporal Lobe Epilepsy](https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy)) with the graph showing the anticipated 'honeymoon period' of the [Clobazam](https://en.wikipedia.org/wiki/Clobazam) as seizures begun to increase after some time. The primary seizure type is absence seizures with high-impacting aphasia (inability to communicate entirely). Four entries represent tonic clonic seizures, and two out of these hundreds of entries were cluster seizures (unmarked) lasting fifteen minutes.
