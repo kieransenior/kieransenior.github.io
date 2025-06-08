@@ -2,11 +2,10 @@
 layout: data
 ---
 
-On November 27th 2024 I had a _left_ selective [amygdalohippocampectomy](https://en.wikipedia.org/wiki/Amygdalohippocampectomy) surgery via Laser Interstitial Thermal Therapy ([LiTT](https://www.epilepsy.com/treatment/surgery/types/litt-thermal-ablation)) to ablate (destroy) the entirety of my left hippocampus and amygdala through an innovative procedure performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at [Stanford Medicine](https://med.stanford.edu) in Palo Alto. I was the fifth person to ever have the entire hippocampus and amygdala ablated with <ins>_three trajectories in a single procedure_</ins>.
+On November 27th 2024 I had a _left_ selective [amygdalohippocampectomy](https://en.wikipedia.org/wiki/Amygdalohippocampectomy) surgery via Laser Interstitial Thermal Therapy ([LiTT](https://www.epilepsy.com/treatment/surgery/types/litt-thermal-ablation)) performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at [Stanford Medicine](https://med.stanford.edu) in Palo Alto. The procedure was innovative as three trajectories were performed in a single surgery to ensure the entirety of the correct mesial temporal lobe tissue was ablated including the fasciola cinereum (second trajectory) and mesial uncus and entorhinal
+cortex (third trajectory).
 
-For over two years I meticulously captured my epilepsy data whose results were leveraged for the eventual destruction of my left hippocampus and amygdala. This data capture is used to discover how it correlates with medication, pre-operative state, and post-operative state. [Here's a link](/data) to all of the data. The epilepsy type is refractory left [temporal lobe epilepsy](https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy) (LTLE). 
-
-
+For over two years I meticulously captured my epilepsy data whose results were leveraged for the eventual procedure. This data capture is used to discover how it correlates with medication, pre-operative state, and post-operative state. [Here's a link](/data) to all of the data. The epilepsy type is refractory left [temporal lobe epilepsy](https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy) (LTLE). 
 
 This website is used to help both inform current epileptic patients and provide data and insights for professionals in medicine. Do feel free to contact me [via email](mailto:kieransenior@icloud.com) for further information.
 
@@ -15,14 +14,14 @@ This website is used to help both inform current epileptic patients and provide 
 | **Pre-Surgery** |
 | Deep investigation by [Dr. Sharam Amina](https://mydoctor.kaiserpermanente.org/ncal/providers/shahramamina) and [Dr. Derek Yecies](https://mydoctor.kaiserpermanente.org/ncal/providers/derekyecies) at Kaiser Permanente in Redwood City, California showed the left hippocampus was already non-functional. Dr. Yecies performed an [sEEG](https://en.wikipedia.org/wiki/Stereoelectroencephalography) surgery whose results showed the left hippocampus was *continuously* misfiring. A [Wada](https://en.wikipedia.org/wiki/Wada_test) test was performed showing the right hippocampus was compensating for the lack of function in the left hippocampus. Memory tests showed a non-functional left hippocampus, with the right hippocampus compensating adequately. |
 | **Surgery** |
-| Surgery was performed at [Stanford Medicine](https://med.stanford.edu) by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch). You can listen to Dr. Buch explaining this surgery via this [YouTube video](https://www.youtube.com/watch?v=z-nRUMbs2kY). I was the fifth patient on the planet to have a newer variation of this surgery performed that ablates the _entire_ hippocampus and amygdala, requiring three re-entries. The procedure took Dr. Buch a total of nine hours followed by an MRI scan. |
+| Surgery was performed at [Stanford Medicine](https://med.stanford.edu) by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch). You can listen to Dr. Buch explaining this surgery via this [YouTube video](https://www.youtube.com/watch?v=z-nRUMbs2kY). The procedure took Dr. Buch a total of nine hours followed by an MRI scan. Per the above, three trajectories were performed in a single procedure. |
 | **Post-Surgery** |
 | No remarkable difference in cognitive function. Verbal memory is influenced per expectations i.e. reading a book and retaining information. This is mitigated for via audiobooks. This result aligns with what both [Dr. Sharam Amina](https://mydoctor.kaiserpermanente.org/ncal/providers/shahramamina) and [Dr. Derek Yecies](https://mydoctor.kaiserpermanente.org/ncal/providers/derekyecies) expected given their research in addition to the outcome of [Dr. Vivek Buch's](https://med.stanford.edu/profiles/vivek-buch) successful surgery.  |
 
 ### **Common Post-Surgery Questions**
 
 | **Were you awake during the surgery?** |
-| This is the most common question I've been asked. **No**. I was _not_ awake during the surgery. Brain surgery videos watched online show the patient awake _because_ the patient is awake, making the surgery more interesting. Do you want to watch a nine hour surgery with a patient asleep? I would assume you would not! |
+| This is the most common question I've been asked. No, I was _not_ awake during the surgery. Brain surgery videos watched online show the patient awake _because_ the patient is awake, making the surgery more interesting. |
 | **Has your short-term memory been affected?** |
 | Deep study by Kaiser Permanente on multiple fronts showed my short-term memory is being controlled by my right hippocampus. The left hippocampus was barely functional per the Wada test, with the right hippocampus scoring 100% on memory tests. The sEEG showed the left hippocampus was misfiring non-stop both whilst conscious and even more so during sleep.<br /><br />The results from these tests indicated there would be no major impact on short-term memory post-surgery, and studies also show there can be an _increase_ in verbal memory after surgery. The tests revealed techniques being utilized to remember details and a general high IQ. Short-term memory was found to be low-scoring per expectations. |
 | **What post-surgery side effects were there?** |
