@@ -1,0 +1,454 @@
+/* My website development days are gone. This is _messy_. */
+
+:root {
+    --bg:#f9f8f6;
+    --fg:#1a1a1a;
+    --muted:#555;
+    --muted-border:#e6e4df;
+    --accent:#4444ff;
+    --transition: .2s ease; --header-h:56px;
+    --font-body:'EB Garamond', Georgia, 'Times New Roman', serif;
+    --font-ui:'Inter', system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial, sans-serif;
+    --font-heading: 'Lora', 'EB Garamond', Georgia, 'Times New Roman', serif;
+    --container:650px;
+}
+
+html, body {
+    height:100%;
+    overflow-x: hidden;
+}
+
+body {
+    margin:0;
+    background:var(--bg);
+    color:var(--fg);
+    font-optical-sizing: auto;
+    font:200 1.0rem/1.25 var(--font-body);
+    text-rendering:optimizeLegibility;
+    -webkit-font-smoothing:antialiased
+}
+
+strong {
+    font:600 1.15rem/1.25 var(--font-heading);
+}
+
+.epilepsy-outer {
+    margin:25px 0 35px 0;
+    font: 1.6rem/1.2 "EB Garamond";
+    font-weight: 200;
+    font-style: normal;
+    color:#333;
+    hyphens: auto;
+    padding-bottom:25px;
+    border-bottom:2px solid #333;
+}
+
+.disclaimer {
+    font: 1.0rem/1.2 "EB Garamond";
+    color:#555;
+    padding-bottom:30px;
+    border-bottom:2px solid #333;
+}
+
+.columns {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 2rem;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+@media (max-width: 540px) {
+    .columns {
+        grid-template-columns: 1fr;
+    }
+}
+
+.data-table tr {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+    border-bottom: 1px solid #e0e0e0;
+    font-size: 14px;
+}
+
+.data-table tr:last-child {
+    border-bottom: none;
+}
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    font:0.8rem/1.1 var(--font-ui);
+}
+
+.data-table td {
+    padding: 6px 0;
+    vertical-align: top;
+}
+
+.data-table .label {
+    color: #666;
+    padding-right: 1rem;
+    width: 60%;
+}
+
+.data-table .value {
+    font-weight: 500;
+    text-align: right;
+}
+
+.col-main h2 {
+    font-size:1.1em;
+    margin:0;
+}
+
+.col-side h5 {
+    font-size:1em;
+    text-transform:uppercase;
+    font:600 0.8rem/1.1 var(--font-ui);
+    color:#555;
+    padding:0px 12px;
+    margin:0 0 10px 0;
+}
+
+.data-section {
+    background: #e8f2fb;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom:20px;
+}
+
+.column {
+  padding-left: 0px;
+}
+
+.footnotes {
+    font-size:0.8em;
+    font:italic 0.8rem/1.6 var(--font-ui);
+    color:var(--muted);
+}
+
+body blockquote {
+    font:italic 1.2rem/1.6 var(--font-heading);
+    padding-left:0.8rem;
+    margin-left:1rem;
+    border-left:3px solid;
+    border-color:var(--muted);
+}
+
+sup {
+    font:0.8rem/1.6 var(--font-body);
+}
+
+sup a {
+    text-decoration:none;
+}
+
+.container {
+    max-width: var(--container, 600px);
+    margin: 0 auto;
+    padding: 0 1rem;
+    overflow: visible;
+}
+
+.full-width-chart {
+    position: relative;
+    width: 100vw;
+    min-width: 100vw;
+    max-width: none !important;
+    left: 50%;
+    transform: translateX(-50vw);
+    margin: 3rem 0;
+    grid-column: 1 / -1;
+    flex: 0 0 auto;
+    box-sizing: content-box;
+}
+
+#chart_div {
+    width: 100% !important;
+    height: 520px;
+    max-width: none !important;
+}
+
+.full-width-chart svg,
+.full-width-chart canvas {
+    max-width: none !important;
+}
+
+html, body { overflow-x: hidden; }
+
+@supports (width: 100svw) {
+    .full-width-chart {
+        width: 100svw;
+        min-width: 100svw;
+        transform: translateX(-50svw);
+    }
+}
+
+main {
+    font-size:1.35rem;
+    padding:1rem 0;
+    /* Keep these two! */
+    content-visibility:auto;
+    contain-intrinsic-size:800px;
+    line-height:1.5em;
+}
+
+/* Optimization… this took a long time to figure out! */
+main:has(.full-width-chart) {
+    content-visibility: visible;
+    contain: layout style;
+}
+
+main h1 {
+    font:600 2.4rem/1.6 var(--font-heading);
+    letter-spacing:-0.03em;
+    margin:1rem 1.2rem;
+    text-align:center;
+    font-style:italic;
+}
+
+main h2 {
+    font:600 1.8rem/1.25 var(--font-heading);
+    letter-spacing:-.01em;
+    
+}
+
+h3 {
+    font:600 1.25rem/1.25 var(--font-heading);
+    
+}
+
+p {
+    margin:1.1rem 0
+}
+
+.image-gallery {
+    margin-top:1.5rem;
+}
+
+.visually-hidden {
+    position:absolute!important;
+    clip:rect(1px,1px,1px,1px);
+    clip-path:inset(50%);
+    height:1px;
+    width:1px;
+    overflow:hidden;
+    white-space:nowrap
+}
+
+.site-footer {
+    background:rgba(0,0,0,.02);
+    border-top:1px solid #ddd;
+    border-bottom:1px solid #ddd;
+    padding:3rem 0 3.5rem;
+}
+
+.site-footer .footer-inner {
+    display:flex;
+    flex-direction:column;
+    gap:1.25rem
+}
+
+.footer-main ul {
+    display:flex;
+    gap:1rem;
+    list-style:none;
+    margin:0 auto;
+    padding:0;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.footer-main a {
+    font:500 1rem/1 var(--font-ui);
+    color:var(--fg);
+    text-decoration:none;
+    padding:.4rem .55rem;
+    border-radius:.5rem;
+}
+
+.footer-main a:hover {
+    color:var(--accent)
+}
+
+.footer-main a.is-active,[aria-current="page"] {
+    color:var(--accent);
+    font-weight:600
+}
+
+.site-footer .footnote {
+    margin:0 auto;
+    text-align:center;
+    color:#777;
+}
+
+.divider-fade {
+    margin:2.5rem auto;
+    height:1px;
+    width:90%;
+    max-width:780px;
+    background:linear-gradient(to right, transparent, #bbb, transparent);
+    opacity:0.7;
+}
+
+.story-nav {
+    display:flex;
+    justify-content:
+    space-between;
+    align-items:center;
+    gap:1rem;
+    margin:1.75rem 0;
+}
+
+.story-nav a {
+    display:inline-flex;
+    align-items:center;
+    gap:.35rem;
+    font:500 1rem/1 var(--font-ui);
+    color:var(--accent);
+    text-decoration:none;
+    padding:0;
+    border:none;
+    border-radius:0;
+}
+
+.story-nav a:hover {
+    border-color:var(--accent);
+    color:var(--accent)
+}
+
+.story-nav a.prev::before {
+    content:"←";
+    font-size:1.05em;
+
+}
+
+.story-nav a.next::after {
+    content:"→";
+    font-size:1.05em;
+}
+
+.story-list {
+    margin:0rem 2.5em;
+    display:flex;
+    flex-direction:column;
+    gap:1.25rem
+}
+
+/* Gallery */
+
+.gallery-caption {
+    font: 0.8rem/1.5 var(--font-heading);
+    font-style:italic;
+    margin-top:0rem;
+    margin-bottom:1rem;
+    color:var(--muted); /* Yeah, mute it… */
+}
+
+.gallery-scroll {
+    overflow-x: auto;
+    display: flex;
+    gap: 1rem;
+    padding: 0rem 0rem; /* Hey, uhhh, can add some padding maybe? */
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: 1rem;
+    -webkit-overflow-scrolling: touch;
+}
+
+.gallery-scroll img {
+    flex: 0 0 auto;
+    height: 30rem;
+    max-width: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.gallery-item {
+    margin:0 auto 0rem
+}
+
+.gallery-item,
+.media {
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.gallery-item.small {
+    display: block;
+    max-width: 500px;
+    margin: 2rem auto;
+    border-radius: 8px;
+    height: auto;
+}
+
+.gallery-item img.single,
+.media img.single {
+    display: block;
+    width: 100%;
+    max-width: 680px;
+    height: auto;
+    margin: 0 auto 1rem;
+    border-radius: 12px;
+    object-fit: contain;
+}
+
+.image-edge .gallery-item img {
+    width:110%;
+    max-width:none;
+    margin-left:50%;
+    transform:translateX(-50%);
+}
+
+/* Ensure header/footer stay above page content but below overlay */
+.site-footer { position: relative; z-index: 1; }
+
+/* Changed all of this 10,000 times… if I change it, it will break.*/
+
+@media (max-width:480px){
+    .story-nav {
+        flex-direction:column;
+        align-items:stretch;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .story-nav a {
+        justify-content:center
+        flex: 1;
+    }
+    
+    .story-nav a.prev {
+        text-align: left;
+    }
+    
+    .story-nav a.next {
+        text-align: right;
+    }
+    
+    h2, h3 {
+        font-size: clamp(1.6rem, 6vw, 3rem);
+    }
+}
+
+@media (max-width:620px){
+    body {
+        font-size:1.12rem
+    }
+    
+    header h1 {
+        font-size:1.45rem
+    }
+    
+    h2, h3 {
+        font-size: clamp(1.6rem, 6vw, 3rem);
+    }
+    
+    body { font-size: 1rem; }
+    h1 { font-size: 2.2rem;}
+    h2, h2.story-header { font-size: 1.75rem;  }
+    h3 { font-size: 1.1rem; }
+}
