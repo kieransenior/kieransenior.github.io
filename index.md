@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome"
 ---
 
 <div class="epilepsy-outer">
@@ -104,7 +103,7 @@ The sEEG noted in the post-operative report that "Interictal Abnormality: Very a
     <img src="/assets/images/seeg-active-seizure.png" alt="sEEG - Seizure" />
   </div>
 
-  <div class="gallery-caption"><em>July 1st, 2024, Redwood City, California</em>. From left to right a) near continuous spiking b) infrequently wider spread higher amplitude spikes/polyspikes extending outside the hippocampal region c) independent spikes left temporal tip d) a</div>
+  <div class="gallery-caption"><em>July 1st, 2024, Redwood City, California</em>. From left to right a) near continuous spiking b) infrequently wider spread higher amplitude spikes/polyspikes extending outside the hippocampal region c) independent spikes left temporal tip d) active seizure</div>
 </div>
 
 Wada findings showed atypical memory lateralization. With left hemispheric anesthesia, memory testing was performed successfully, indicating right-hemisphere memory capacity. With right hemispheric anesthesia, the score was zero, indicating the left hemisphere alone could not support memory function. This pattern is the inverse of the typical configuration in left-language-dominant patients but is favorable for left-sided resection/ablation: the contralateral hemisphere demonstrated sufficient memory reserve to tolerate the planned ablation.
@@ -156,9 +155,9 @@ Each point represents a snapshot; dosage, type, and seizure count for that month
 
 ## Post-Operative Observations 
 
-Verbal memory issues occurred immediately post-surgery, primarily name and word recall. Techniques were adopted to manage the expected verbal memory decline. During the plasticity window at roughly nine months, from first and third-hand observation, verbal memory improved. 
+Verbal memory issues occurred immediately post-surgery, primarily naming and word recall. Compensatory techniques were adopted to manage the expected verbal memory decline. During the plasticity window at roughly nine months, from first and third-hand observation, verbal memory improved.
 
-Post-operative neurocognitive testing at 12 months did not show decline into a differing category.
+Post-operative neurocognitive testing at 12 months did not show decline into a differing category. 
 
 ## Final Notes
 
