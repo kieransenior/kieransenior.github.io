@@ -6,7 +6,7 @@ permalink: /
 
 <p>I'm Kieran, the patient in the case described below. I'm a software engineer, and share this record as a source for clinicians and researchers. I'm not a neurologist, nor am I in medicine, but a patient very interested in this area given it directly affected me.</p>
 
-<p>In November 2024 I underwent a three-trajectory <em>left</em> amygdalohippocampectomy via laser interstitial thermal therapy (LITT) for drug-resistant left mesial temporal lobe epilepsy. The trajectories spanned the entirety of the amygdala and hippocampus and targeted the mesial uncus, entorhinal cortex, and fasciola cinereum (FC). Outcome at 17 months post-operative: Engel Class I.</p>
+<p>In November 2024 I underwent a three-trajectory <em>left</em> stereotactic laser amygdalohippocampotomy via laser interstitial thermal therapy (LITT) for drug-resistant left mesial temporal lobe epilepsy. The trajectories spanned the entirety of the amygdala and hippocampus and targeted the mesial uncus, entorhinal cortex, and fasciola cinereum (FC). Outcome at 17 months post-operative: Engel Class I.</p>
 
 <p>The FC as a named standalone LITT target has minimal precedent in today's literature. I collected longitudinal medication and seizure data spanning the pre-surgical, treatment, and post-surgical periods which are included below.</p>
 
@@ -103,16 +103,16 @@ The sEEG noted in the post-operative report that "Interictal Abnormality: Very a
     <img src="/assets/images/seeg-active-seizure.png" alt="sEEG - Seizure" />
   </div>
 
-  <div class="gallery-caption"><em>July 1st, 2024, Redwood City, California</em>. From left to right a) near continuous spiking b) infrequently wider spread higher amplitude spikes/polyspikes extending outside the hippocampal region c) independent spikes left temporal tip d) active seizure</div>
+  <div class="gallery-caption"><em>July 1st, 2024, Redwood City, California</em>. From left to right a) near continuous spiking throughout the procedure b) infrequently wider spread higher amplitude spikes/polyspikes extending outside the hippocampal region c) independent spikes left temporal tip d) active seizure</div>
 </div>
 
 Wada findings showed atypical memory lateralization. With left hemispheric anesthesia, memory testing was performed successfully, indicating right-hemisphere memory capacity. With right hemispheric anesthesia, the score was zero, indicating the left hemisphere alone could not support memory function. This pattern is the inverse of the typical configuration in left-language-dominant patients but is favorable for left-sided resection/ablation: the contralateral hemisphere demonstrated sufficient memory reserve to tolerate the planned ablation.
 
-With the MRI consistent with left mesial temporal sclerosis, sEEG ictal onset localization on the left mesial temporal region, the Wada atypical memory laterialization, and drug-resistance to the five ASMs, this was very good justification to proceed with LITT.
+With the MRI consistent with left mesial temporal sclerosis, sEEG ictal onset localization on the left mesial temporal region, the Wada atypical memory lateralization, and drug-resistance to the five ASMs, this was very good justification to proceed with LITT.
 
 ## Prior Research
 
-Research into ablation of the fasciola cinereum is recent with positive results reducing one patients seizures by 83% noting that "the FC is a targetable source of seizure recurrence in humans" (verbatim).
+Research into ablation of the fasciola cinereum is recent with positive results reducing one patient's seizures by 83% noting that "the FC is a targetable source of seizure recurrence in humans" (verbatim).
 
 * [The fasciola cinereum of the hippocampal tail as an interventional target in epilepsy: 1292–1299 (2024)](https://www.nature.com/articles/s41591-024-02924-9)
 * [Characterizing the Cellular Properties of Fasciola Cinereum Neurons (P3-9.013) (2025)](https://www.neurology.org/doi/10.1212/WNL.0000000000212630)
@@ -120,9 +120,9 @@ Research into ablation of the fasciola cinereum is recent with positive results 
 
 ## Procedure (November 2024)
 
-Left-sided amygdalohippocampectomy with three trajectories in a single procedure. The trajectories targeted the mesial uncus, entorhinal cortex, and fasciola cinereum noting that the procedure was "spanning the entirety of the amygdala and hippocampus back to the FC" (verbatim). Of particular note was the FC, the tail-end of the hippocampal region not typically ablated.
+Left-sided amygdalohippocampotomy with three trajectories in a single procedure. The trajectories targeted the mesial uncus, entorhinal cortex, and fasciola cinereum noting that the procedure was "spanning the entirety of the amygdala and hippocampus back to the FC" (verbatim). Of particular note was the FC, the tail-end of the hippocampal region not typically ablated.
 
-Surgery was performed by neurosurgeons at Stanford in Palo Alto, California.
+Surgery was performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at Stanford in Palo Alto, California.
 
 ## Outcome
 
@@ -157,8 +157,10 @@ Each point represents a snapshot; dosage, type, and seizure count for that month
 
 Verbal memory issues occurred immediately post-surgery, primarily naming and word recall. Compensatory techniques were adopted to manage the expected verbal memory decline. During the plasticity window at roughly nine months, from first and third-hand observation, verbal memory improved.
 
-Post-operative neurocognitive testing at 12 months did not show decline into a differing category. 
+Post-operative neurocognitive testing at 12 months did not show decline into a differing category.
 
-## Final Notes
+As a patient with first-hand insight, post-operative neurocognitive testing typically performed at 12 months may better be suited at 24 months. 
+
+## Final Notes 
 
 Huge thanks goes out to everyone involved; family, friends, colleagues, and medical staff. Do feel free to contact me if you have any questions.
