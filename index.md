@@ -49,7 +49,7 @@ title: "Welcome"
         </tr>
         <tr>
             <td class="label">Medication</td>
-            <td class="value">None</td>
+            <td class="value">Not yet treated</td>
         </tr>
     </table>
 </div>
@@ -96,7 +96,18 @@ Progressive, drug-resistant mesial temporal sclerosis.
 
 The sEEG noted in the post-operative report that "Interictal Abnormality: Very active with near continuous spiking seen in the left hippocampus (Ant Hipp 1-2, Mid Hipp 12 , Post Hipp 1-2 contacts) throughout" (verbatim). Medical staff very frequently assumed active seizures were occurring due to the continuous abnormal activity.
 
-Wada findings showed atypical memory lateralization. With left hemispheric anesthesia, memory testing was performed successfully, indicating right-hemisphere memory capacity. With right hemispheric anesthesia, the score was zero, indicating the left hemisphere alone could not support memory function. This pattern is the inverse of the typical configuration in left-language-dominant patients but is favorable for left-sided resection: the contralateral hemisphere demonstrated sufficient memory reserve to tolerate the planned ablation.
+<div class="gallery-item">
+  <div class="gallery-scroll">
+    <img src="/assets/images/seeg-near-continuous.png" alt="sEEG - Near Continuous Spiking" />
+    <img src="/assets/images/seeg-higher-amplitude-seldom.png" alt="sEEG - Higher Amplitude Seldom" />
+    <img src="/assets/images/seeg-independent-left-temporal-tip.png" alt="sEEG - Indepdent Left Temporal Tip" />
+    <img src="/assets/images/seeg-active-seizure.png" alt="sEEG - Seizure" />
+  </div>
+
+  <div class="gallery-caption"><em>July 1st, 2024, Redwood City, California</em>. From left to right a) near continuous spiking b) infrequently wider spread higher amplitude spikes/polyspikes extending outside the hippocampal region c) independent spikes left temporal tip d) a</div>
+</div>
+
+Wada findings showed atypical memory lateralization. With left hemispheric anesthesia, memory testing was performed successfully, indicating right-hemisphere memory capacity. With right hemispheric anesthesia, the score was zero, indicating the left hemisphere alone could not support memory function. This pattern is the inverse of the typical configuration in left-language-dominant patients but is favorable for left-sided resection/ablation: the contralateral hemisphere demonstrated sufficient memory reserve to tolerate the planned ablation.
 
 With the MRI consistent with left mesial temporal sclerosis, sEEG ictal onset localization on the left mesial temporal region, the Wada atypical memory laterialization, and drug-resistance to the five ASMs, this was very good justification to proceed with LITT.
 
@@ -145,7 +156,7 @@ Each point represents a snapshot; dosage, type, and seizure count for that month
 
 ## Post-Operative Observations 
 
-Verbal memory issues occurred immediately post-surgery. Techniques were adopted to manage the expected verbal memory decline. During the plasticity window at roughly nine months, from first-hand observation, verbal memory dramatically improved. 
+Verbal memory issues occurred immediately post-surgery, primarily name and word recall. Techniques were adopted to manage the expected verbal memory decline. During the plasticity window at roughly nine months, from first and third-hand observation, verbal memory improved. 
 
 Post-operative neurocognitive testing at 12 months did not show decline into a differing category.
 

@@ -362,7 +362,6 @@ p {
     flex: 0 0 auto;
     height: 30rem;
     max-width: 100%;
-    object-fit: cover;
     border-radius: 12px;
 }
 
@@ -372,14 +371,13 @@ p {
 
 .gallery-item,
 .media {
-    border-radius: 12px;
     overflow: hidden;
 }
 
 .gallery-item.small {
     display: block;
     max-width: 500px;
-    margin: 2rem auto;
+    
     border-radius: 8px;
     height: auto;
 }
@@ -390,13 +388,11 @@ p {
     width: 100%;
     max-width: 680px;
     height: auto;
-    margin: 0 auto 1rem;
-    border-radius: 12px;
     object-fit: contain;
 }
 
 .image-edge .gallery-item img {
-    width:110%;
+  
     max-width:none;
     margin-left:50%;
     transform:translateX(-50%);
