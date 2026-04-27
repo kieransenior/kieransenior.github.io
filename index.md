@@ -93,7 +93,7 @@ permalink: /
 
 Progressive, drug-resistant mesial temporal sclerosis.
 
-The sEEG noted in the post-operative report that "Interictal Abnormality: Very active with near continuous spiking seen in the left hippocampus (Ant Hipp 1-2, Mid Hipp 12 , Post Hipp 1-2 contacts) throughout" (verbatim). Medical staff very frequently assumed active seizures were occurring due to the continuous abnormal activity.
+The sEEG noted in the post-operative report that "Interictal Abnormality: Very active with near continuous spiking seen in the left hippocampus" (verbatim). Medical staff frequently assumed active seizures were occurring due to the continuous abnormal activity.
 
 <div class="gallery-item">
   <div class="gallery-scroll">
@@ -103,7 +103,7 @@ The sEEG noted in the post-operative report that "Interictal Abnormality: Very a
     <img src="/assets/images/seeg-active-seizure.png" alt="sEEG - Seizure" />
   </div>
 
-  <div class="gallery-caption"><em>July 1st, 2024, Redwood City, California</em>. From left to right a) near continuous spiking throughout the procedure b) infrequently wider spread higher amplitude spikes/polyspikes extending outside the hippocampal region c) independent spikes left temporal tip d) active seizure</div>
+  <div class="gallery-caption"><em>July 1st, 2024, Redwood City, California</em>. From left to right (scrollable) a) near continuous spiking throughout the procedure b) infrequently wider spread higher amplitude spikes/polyspikes extending outside the hippocampal region c) independent spikes left temporal tip d) active seizure</div>
 </div>
 
 Wada findings showed atypical memory lateralization. With left hemispheric anesthesia, memory testing was performed successfully, indicating right-hemisphere memory capacity. With right hemispheric anesthesia, the score was zero, indicating the left hemisphere alone could not support memory function. This pattern is the inverse of the typical configuration in left-language-dominant patients but is favorable for left-sided resection/ablation: the contralateral hemisphere demonstrated sufficient memory reserve to tolerate the planned ablation.
@@ -120,7 +120,7 @@ Research into ablation of the fasciola cinereum is recent with positive results 
 
 _Note: certain sections are intentionally concise — forthcoming research will provide greater detail._
 
-Left-sided amygdalohippocampotomy with three trajectories in a single procedure. The trajectories targeted the mesial uncus, entorhinal cortex, and fasciola cinereum noting that the procedure was "spanning the entirety of the amygdala and hippocampus back to the FC" (verbatim). Of particular note was the FC, the tail-end of the hippocampal region not typically ablated.
+Left-sided amygdalohippocampotomy with three trajectories in a single procedure. The trajectories targeted the mesial uncus, entorhinal cortex, and fasciola cinereum noting that the procedure was "spanning the entirety of the amygdala and hippocampus back to the FC" (verbatim). Of particular note was the FC, the tail-end of the hippocampal region as a subject of recent research.
 
 Surgery was performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at Stanford in Palo Alto, California.
 
@@ -138,11 +138,11 @@ Data was captured for years by myself to discover correlation in the hopes of im
 
 Each time a seizure was experienced a calendar event was created, then at the end of each week the results were captured. Observations:
 
-* **November 2022**: First neurologist prescribed a standard ASM, Keppra. Data showed an immediate drop in seizures with the baseline returning shortly afterwards.
+* **November 2022**: Prescribed a standard ASM, Keppra. Data showed an immediate drop in seizures with the baseline returning shortly afterwards.
 * **March 2023**: Rare allergic reaction to Depakote leading to pancreatitis and an ER stay. Two weeks of full seizure-freedom despite no medication. Assumption is unintentional deep ketosis (locally tested).
-* **August 2023**: Epileptologist prescribed Clobazam (Onfi) after this data was shown. Seizures vanished entirely at first, with a lowered baseline afterwards.
+* **August 2023**: Prescribed Clobazam (Onfi) after this data was shown. Seizures vanished entirely at first, with a lowered baseline afterwards.
 * **March 2024**: Partial seizures dropped with tonic-clonics taking over. With months of recorded data we made the call to move toward surgery.
-* **May 2024**: Absence seizures increased even though Clobazam dosage rose.
+* **May 2024**: Absence seizures increased as Clobazam dosage rose, highlighting further drug-resistance.
 * **November 2024**: Surgery. No post-surgical seizures in any form. (As of April 2026).
 
 The chart combines three variables:
