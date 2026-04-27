@@ -4,11 +4,11 @@ permalink: /
 
 <div class="epilepsy-outer">
 
-<p>I'm Kieran, the patient in the case described below. I'm a software engineer, and share this record as a source for clinicians and researchers. I'm not a neurologist, nor am I in medicine, but a patient very interested in this area given it directly affected me.</p>
+<p>I'm Kieran, a software engineer and the patient in the case described below. I share this patient record to highlight the diagnosis, prognosis, and success of this highly complicated surgery.</p>
 
-<p>In November 2024 I underwent a three-trajectory <em>left</em> stereotactic laser amygdalohippocampotomy via laser interstitial thermal therapy (LITT) for drug-resistant left mesial temporal lobe epilepsy. The trajectories spanned the entirety of the amygdala and hippocampus and targeted the mesial uncus, entorhinal cortex, and fasciola cinereum (FC). Outcome at 17 months post-operative: Engel Class I.</p>
+<p>In November 2024 I underwent a three-trajectory <em>left</em> stereotactic laser amygdalohippocampotomy for drug-resistant left mesial temporal lobe epilepsy. The trajectories spanned the amygdala and hippocampus, targeting the mesial uncus, entorhinal cortex, and fasciola cinereum. Outcome at 17 months post-op: Engel Class I.</p>
 
-<p>The FC as a named standalone LITT target has minimal precedent in today's literature. I collected longitudinal medication and seizure data spanning the pre-surgical, treatment, and post-surgical periods which are included below.</p>
+<p>I collected years of longitudinal medication and seizure data spanning the pre-surgical, treatment, and post-surgical periods which are included below.</p>
 
 </div>
 
@@ -30,7 +30,7 @@ permalink: /
         </tr>
         <tr>
             <td class="label">Testing</td>
-            <td class="value">Wada, sEEG</td>
+            <td class="value">MRI, fMRI, sEEG, Wada</td>
         </tr>
     </table>
 </div>
@@ -82,7 +82,7 @@ permalink: /
         </tr>
         <tr>
             <td class="label">Medications</td>
-            <td class="value">Clobazam (weaning), Lacosamide.</td>
+            <td class="value"><strikethrough>Clobazam</strikethrough> (weaned successfully), Lacosamide.</td>
         </tr>
     </table>
 </div>
@@ -115,10 +115,10 @@ With the MRI consistent with left mesial temporal sclerosis, sEEG ictal onset lo
 Research into ablation of the fasciola cinereum is recent with positive results reducing one patient's seizures by 83% noting that "the FC is a targetable source of seizure recurrence in humans" (verbatim).
 
 * [The fasciola cinereum of the hippocampal tail as an interventional target in epilepsy: 1292–1299 (2024)](https://www.nature.com/articles/s41591-024-02924-9)
-* [Characterizing the Cellular Properties of Fasciola Cinereum Neurons (P3-9.013) (2025)](https://www.neurology.org/doi/10.1212/WNL.0000000000212630)
-* [The fasciola cinereum subregion of the hippocampus is important for the acquisition of visual contextual memory (2022)](https://pubmed.ncbi.nlm.nih.gov/34999186/)
 
 ## Procedure (November 2024)
+
+_Note: certain sections are intentionally concise — forthcoming research will provide greater detail._
 
 Left-sided amygdalohippocampotomy with three trajectories in a single procedure. The trajectories targeted the mesial uncus, entorhinal cortex, and fasciola cinereum noting that the procedure was "spanning the entirety of the amygdala and hippocampus back to the FC" (verbatim). Of particular note was the FC, the tail-end of the hippocampal region not typically ablated.
 
@@ -154,8 +154,6 @@ The chart combines three variables:
 Each point represents a snapshot; dosage, type, and seizure count for that month. Recording stopped when the seizures did.
 
 ## Post-Operative Observations 
-
-Verbal memory issues occurred immediately post-surgery, primarily naming and word recall. Compensatory techniques were adopted to manage the expected verbal memory decline. During the plasticity window at roughly nine months, from first and third-hand observation, verbal memory improved.
 
 Post-operative neurocognitive testing at 12 months did not show decline into a differing category.
 
