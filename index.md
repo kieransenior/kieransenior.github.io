@@ -158,7 +158,3 @@ Each point represents a snapshot; dosage, type, and seizure count for that month
 Post-operative neurocognitive testing at 12 months did not show decline into a differing category.
 
 As a patient with first-hand insight, post-operative neurocognitive testing typically performed at 12 months may better be suited at 24 months. 
-
-## Final Notes 
-
-Huge thanks goes out to everyone involved; family, friends, colleagues, and medical staff. Do feel free to contact me if you have any questions.
