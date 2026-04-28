@@ -93,7 +93,7 @@ permalink: /
 
 Progressive, drug-resistant mesial temporal sclerosis.
 
-The sEEG post-operative report noted that "Interictal EEG was remarkable for very frequent and near continuous spiking in the left hippocampus throughout the recording" (verbatim). Further commentary is made adding that "Multiple typical clinical and electrographic seizures were recorded as described above arising from the left hippocampus and some spreading to the left temporal pole and anterior temporal neocortical regions" (verbatim). Medical staff frequently assumed active seizures were occurring due to the continuous abnormal activity.
+The sEEG post-operative report noted that "Interictal EEG was remarkable for very frequent and near continuous spiking in the left hippocampus throughout the recording" (verbatim). Further commentary is made adding that "Multiple typical clinical and electrographic seizures were recorded as described above arising from the left hippocampus and some spreading to the left temporal pole and anterior temporal neocortical regions" (verbatim).
 
 In 48 hours during the procedure, I was consciously aware of—and reported—only 8 of those seizures.
 
