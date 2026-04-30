@@ -6,7 +6,7 @@ permalink: /
 
 <p>I'm Kieran, a software engineer and the patient in the case described below. I share this patient record to highlight the diagnosis, prognosis, and success of this highly complicated surgery.</p>
 
-<p>In November 2024 I underwent a three-trajectory <em>left</em> stereotactic laser amygdalohippocampotomy for drug-resistant left mesial temporal lobe epilepsy. The trajectories spanned the amygdala and hippocampus, targeting the mesial uncus, entorhinal cortex, and fasciola cinereum. Outcome at 17 months post-op: Engel Class I.</p>
+<p>In November 2024 I underwent a three-trajectory <em>left</em> stereotactic laser amygdalohippocampotomy for drug-resistant left mesial temporal lobe epilepsy. The trajectories spanned the amygdala and hippocampus, with a trajectory targeting the fasciola cinereum. Outcome: Engel Class I.</p>
 
 <p>I collected years of longitudinal medication and seizure data spanning the pre-surgical, treatment, and post-surgical periods which are included below.</p>
 
@@ -95,7 +95,7 @@ Progressive, drug-resistant mesial temporal sclerosis.
 
 The sEEG post-operative report noted that "Interictal EEG was remarkable for very frequent and near continuous spiking in the left hippocampus throughout the recording" (verbatim). Further commentary is made adding that "Multiple typical clinical and electrographic seizures were recorded as described above arising from the left hippocampus and some spreading to the left temporal pole and anterior temporal neocortical regions" (verbatim).
 
-In 48 hours during the procedure, I was consciously aware of—and reported—only 8 of those seizures.
+In 48 hours during the procedure, I was consciously aware of—and reported—only 8 of those seizures. This window of activity is, however, anomalous given environmental circumstances i.e. significant sleep deprivation and intended weaning of ASMs.  
 
 <div class="gallery-item">
   <div class="gallery-scroll">
@@ -120,15 +120,15 @@ Research into ablation of the fasciola cinereum is recent with positive results 
 
 ## Procedure (November 2024)
 
-_Note: certain sections are intentionally concise — forthcoming research will provide greater detail._
+_Note: certain sections are intentionally concise — forthcoming research will provide greater detail and be cited here._
 
 Left-sided amygdalohippocampotomy with three trajectories in a single procedure. The trajectories targeted the mesial uncus, entorhinal cortex, and fasciola cinereum noting that the procedure was "spanning the entirety of the amygdala and hippocampus back to the FC" (verbatim). Of particular note was the FC, the tail-end of the hippocampal region as a subject of recent research.
 
-Surgery was performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) at Stanford in Palo Alto, California.
+Surgery was performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vivek-buch) and assisted by [Dr. Paul McGeoch](https://profiles.stanford.edu/paul-mcgeoch) at Stanford in Palo Alto, California.
 
 ## Outcome
 
-Engel Class I. Zero seizures or auras have been experienced since the surgery. Noting average seizures per month pre-operative, medicated, to post-surgical were 30→12→0.
+Engel Class I. No seizures or auras have been experienced since the surgery. Average seizures per month pre-operative, medicated, to post-surgical were 30→12→0.
 
 ## Seizure Activity Data
 
@@ -153,10 +153,20 @@ The chart combines three variables:
 * Medication dosage (y-axis)
 * Seizure count (a second line on the same y-axis)
 
-Each point represents a snapshot; dosage, type, and seizure count for that month. Recording stopped when the seizures did.
+Each point represents a snapshot; dosage, type, and seizure count for that month. Recording stopped when the seizures did. 
 
-## Post-Operative Observations 
+## Observations
 
-Post-operative neurocognitive testing at 12 months did not show decline into a differing category.
+### Ictal awareness
 
-As a patient with first-hand insight, post-operative neurocognitive testing typically performed at 12 months may better be suited at 24 months. 
+Data capture was valuable to reinforce future treatment, however based on the resultant sEEG it was reflective, as a patient, only of ictal awareness. Manual tracking therefore captured a _base_ level of seizure activity given the unexpectedly high number of subclinical events reflected in the sEEG. This could well be used as a data point for future triage/assistance of patients with TLE.
+
+### Post-operative recovery
+
+Post-operative neurocognitive testing at 12 months did _not_ show decline into a differing category. As a patient with first-hand insight, post-operative neurocognitive testing typically performed at 12 months could be repeated at 24 months given continued improvements. (_Note: this may be a result of ASM weaning and/or adaptive, compensatory techniques_)
+
+### Post-operative success
+
+After a 12 month tapering period, Clobazam (Onfi), the most effective ASM recorded, was no longer prescribed as of April 2026, 18 months after the LITT procedure with continued Engel Class I. This in of itself was testament to the success of this surgery.
+
+Given all of the known data points in my case used as justification for this novel approach, and from a first-hand perspective, the success of this surgery is irrefutably high.
