@@ -6,7 +6,6 @@
     --muted:#555;
     --muted-border:#e6e4df;
     --accent:#4444ff;
-    --transition: .2s ease; --header-h:56px;
     --font-body:'EB Garamond', Georgia, 'Times New Roman', serif;
     --font-ui:'Inter', system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial, sans-serif;
     --font-heading: 'Lora', 'EB Garamond', Georgia, 'Times New Roman', serif;
@@ -294,50 +293,6 @@ p {
     opacity:0.7;
 }
 
-.story-nav {
-    display:flex;
-    justify-content:
-    space-between;
-    align-items:center;
-    gap:1rem;
-    margin:1.75rem 0;
-}
-
-.story-nav a {
-    display:inline-flex;
-    align-items:center;
-    gap:.35rem;
-    font:500 1rem/1 var(--font-ui);
-    color:var(--accent);
-    text-decoration:none;
-    padding:0;
-    border:none;
-    border-radius:0;
-}
-
-.story-nav a:hover {
-    border-color:var(--accent);
-    color:var(--accent)
-}
-
-.story-nav a.prev::before {
-    content:"←";
-    font-size:1.05em;
-
-}
-
-.story-nav a.next::after {
-    content:"→";
-    font-size:1.05em;
-}
-
-.story-list {
-    margin:0rem 2.5em;
-    display:flex;
-    flex-direction:column;
-    gap:1.25rem
-}
-
 /* Gallery */
 
 .gallery-caption {
@@ -398,33 +353,9 @@ p {
     transform:translateX(-50%);
 }
 
-/* Ensure header/footer stay above page content but below overlay */
 .site-footer { position: relative; z-index: 1; }
 
-/* Changed all of this 10,000 times… if I change it, it will break.*/
-
 @media (max-width:480px){
-    .story-nav {
-        flex-direction:column;
-        align-items:stretch;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-    }
-    
-    .story-nav a {
-        justify-content:center
-        flex: 1;
-    }
-    
-    .story-nav a.prev {
-        text-align: left;
-    }
-    
-    .story-nav a.next {
-        text-align: right;
-    }
-    
     h2, h3 {
         font-size: clamp(1.6rem, 6vw, 3rem);
     }
@@ -432,7 +363,7 @@ p {
 
 @media (max-width:620px){
     body {
-        font-size:1.12rem
+        font-size:1rem
     }
     
     header h1 {
@@ -445,6 +376,6 @@ p {
     
     body { font-size: 1rem; }
     h1 { font-size: 2.2rem;}
-    h2, h2.story-header { font-size: 1.75rem;  }
-    h3 { font-size: 1.1rem; }
+    h2 { font-size: 1.75rem;  }
+    h3 { font-size: 1.4rem; }
 }

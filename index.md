@@ -16,7 +16,7 @@ permalink: /
 <div class="col-main">
 <div class="a">
     <h2>Background</h2>
-    <p>Meningococcal meningitis and encephalitis contracted in December of 2006 (20 years old) with very low chance of survival and requiring intubation. The first known seizure experienced was six hours prior to intubation. Determining if meningitis was the causation or catalyst for pre-existing TLE is not possible.</p>
+    <p>Meningococcal meningitis and encephalitis contracted in December of 2006 (20 years old) with very low chance of survival and requiring intubation. The first known focal-aware seizure experienced was six hours prior to intubation. Determining if meningitis was the causation or catalyst for pre-existing TLE is not possible.</p>
     <p>Seizures progressed until treatment sought in 2022 and diagnosis of mesial temporal sclerosis via MRI. Several ASMs failed and seizures rapidly progressed from absence to clusters and tonic-clonics in 2024. Seizures were primarily absence encompassing total communication loss due to aphasic episodes. There was no prior insight a seizure would occur.</p>
 </div>
 </div>
@@ -128,7 +128,7 @@ Surgery was performed by [Dr. Vivek Buch](https://med.stanford.edu/profiles/vive
 
 ## Outcome
 
-Engel Class I. No seizures or auras have been experienced since the surgery. Average seizures per month pre-operative, medicated, to post-surgical were 30→12→0.
+Engel Class I. No focal-aware seizures or auras have been experienced since the surgery. Average focal-aware seizures per month pre-operative, medicated, to post-surgical were 30→12→0.
 
 ## Seizure Activity Data
 
@@ -157,13 +157,13 @@ Each point represents a snapshot; dosage, type, and seizure count for that month
 
 ## Observations
 
-### Ictal awareness
+### Focal awareness
 
-Data capture was valuable to reinforce future treatment, however based on the resultant sEEG it was reflective, as a patient, only of ictal awareness. Manual tracking therefore captured a _base_ level of seizure activity given the unexpectedly high number of subclinical events reflected in the sEEG. This could well be used as a data point for future triage/assistance of patients with TLE.
+Data capture was valuable to reinforce future treatment, however based on the resultant sEEG it was reflective, as a patient, only of focal awareness. Manual tracking therefore captured a _base_ level of seizure activity given the unexpectedly high number of subclinical events reflected in the sEEG. This could well be used as a data point for future triage/assistance of patients with TLE.
 
 ### Post-operative recovery
 
-Post-operative neurocognitive testing at 12 months did _not_ show decline into a differing category. As a patient with first-hand insight, post-operative neurocognitive testing typically performed at 12 months could be repeated at 24 months given continued improvements. (_Note: this may be a result of ASM weaning and/or adaptive, compensatory techniques_)
+Post-operative neurocognitive testing at 12 months did _not_ show decline into a differing category. As a patient with first-hand insight, post-operative neurocognitive testing typically performed at 12 months could be repeated at 24 months given continued improvements. (_May be a result of ASM weaning and/or adaptive, compensatory techniques_)
 
 ### Post-operative success
 
